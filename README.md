@@ -1,3 +1,3 @@
 # Holberton School Networking Basics :school::apple:
 >
-In this repository we go through ***OSI model***.
+In this repository we go through ***Networking***.
