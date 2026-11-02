@@ -1,32 +1,19 @@
-# What Happens When You Type google.com in Your Browser and Press Enter
+# What happens when your type google com in your browser and press enter
 
-This project explains what happens behind the scenes when a user enters:
+> [Repository overview](../README.md) · [Parent module](../README.md)
 
-`https://www.google.com`
+**Module:** `what_happens_when_your_type_google_com_in_your_browser_and_press_enter` · **Repository:** `holbertonschool-network`
 
-into a web browser and presses Enter.
+The browser request lifecycle, including DNS, network connections, web servers and an architecture diagram.
 
-## Topics Covered
+## Exercises and files
 
-- DNS resolution
-- TCP/IP
-- Firewalls
-- HTTPS and SSL/TLS
-- Load balancing
-- Web servers
-- Application servers
-- Databases
+| File | Description |
+| --- | --- |
+| [`0-blog_post`](./0-blog_post) | Exercise 0 — Blog post. |
+| [`1-what_happen_when_diagram`](./1-what_happen_when_diagram) | Exercise 1 — What happen when diagram. |
+| [`1-what_happen_when_diagram.png`](./1-what_happen_when_diagram.png) | Image or icon asset used by the project. |
 
-## Project Tasks
+## Attribution
 
-### 0. Blog Post
-
-Write and publish an article explaining the complete request flow from the browser to the server infrastructure and back.
-
-### 1. Request Flow Diagram
-
-Create a diagram showing the main components involved in processing the request.
-
-## Author
-
-Romeo
+Coursework repository maintained by [RohMeOh](https://github.com/RohMeOh). This page indexes the tracked files; authorship and contributions are documented in Git history. Images, fonts and vendor files, where present, may be third-party assets.
